@@ -81,4 +81,3 @@ run_python_microservice "transactions" "transaction"
 run_python_microservice "loan" "loan"
 
 echo "Setup completed successfully!"
-
